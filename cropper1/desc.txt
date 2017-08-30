@@ -1,0 +1,19 @@
+This program crops all the images all images
+in the "input" folder, and place them in the
+"output" folder when they've been cropped.
+The different scripts crop at different
+pixel coordinates. List below.
+
+Name		Description
+-------------------------------------------------
+S1			Screen 1
+S2			Screen 2
+TVP_FS1		TeamViewer full screen on screen 1
+TVP_S1		TeamViewer normal screen on screen 1
+TVP_S2		TeamViewer normal screen on screen 2
+
+
+
+
+
+Made by Catsymptote, Desember 2016
