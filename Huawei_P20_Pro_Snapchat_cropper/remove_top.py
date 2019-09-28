@@ -19,7 +19,7 @@ import sys
 # Settings
 input_folder = "input"
 output_folder = "output"
-coords = [0, 81, 1080, 2118]
+coords = [0, 81, 1080, 2240]
 
 
 def get_files(input_folder):
